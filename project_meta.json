@@ -1,10 +1,17 @@
 {
-  "seq": 47,
   "title": "Digital Records Retention and Disposal Framework for a Healthcare SME",
-  "slug": "digital-records-retention-and-disposal-framework-for-a",
+  "old_slug": "digital-records-retention-and-disposal-framework-for-a",
+  "slug": "digital-records-retention-framework",
   "folder": "Digital_Records_Retention_And_Disposal_Framework_For",
   "kind": "records",
-  "body_words": 240,
+  "body_words": 314,
+  "source": "SCI700",
   "project_id": "Project 29",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
